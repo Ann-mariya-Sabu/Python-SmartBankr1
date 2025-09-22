@@ -70,5 +70,5 @@ Net Flow: $2000.00
 
 ## 👩‍💻 Author
 
-Developed by **\[Your Name]** as part of a Python project to demonstrate
+Developed by **Ann mariya Sabu** as part of a Python project to demonstrate
 banking system operations, Tkinter GUI design, and Python programming concepts.
